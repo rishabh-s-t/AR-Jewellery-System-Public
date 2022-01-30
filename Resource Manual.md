@@ -25,7 +25,7 @@
 
 ### Usecase Descriptions
 
-### 1 (To be reviewed)
+### #1 (To be reviewed)
 
 | Use Case Name:        	|   Login	|
 |-----------------------	|---	|
@@ -38,7 +38,7 @@
 | Basic Flow:   	|  <ul><li>The system requests user credentials </li><li>User enters the credentials in the system</li><li>The system checks the user credentials</li></ul> 	|
 | Exception Conditions: 	|   <ul><li>The credentials entered are wrong</li> <li> The user aborts login before verification|
 
-### 2 (To be reviewed)
+### #2 (To be reviewed)
 
 | Use Case Name:        	|   Try Jewelry	|
 |-----------------------	|---	|
