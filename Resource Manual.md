@@ -24,3 +24,29 @@
 ![AR Jewelry System](https://user-images.githubusercontent.com/40191280/151697032-cd43ebb6-a6b3-4003-82f8-1a392a943762.png)
 
 ### Usecase Descriptions
+
+### 1 (To be reviewed)
+
+| Use Case Name:        	|   Login	|
+|-----------------------	|---	|
+| Primary Actor:            	|   User	|
+| Description:            	|   This use case helps the system distinguish between customer and owner	|
+| Relationships:            	|   <ui>**Extends** <li>Handle Abort </li> <li> Handle Invalid Password 	|
+| Triggering Event:     	|   User clicks the login button	|
+| Preconditions:        	| User must be a registered as a customer or owner in the database
+| Postconditions:       	|   If the use case was successful, the actor is now logged into the system. If not the system state is unchanged.	|
+| Basic Flow:   	|  <ul><li>The system requests user credentials </li><li>User enters the credentials in the system</li><li>The system checks the user credentials</li></ul> 	|
+| Exception Conditions: 	|   <ul><li>The credentials entered are wrong</li> <li> The user aborts login before verification|
+
+### 2 (To be reviewed)
+
+| Use Case Name:        	|   Try Jewelry	|
+|-----------------------	|---	|
+| Primary Actor:            	|   Customer	|
+| Description:            	|   This use case helps the customer try  jewelries on their screen using the help of **Augmented Reality** 	|
+| Relationships:            	|   <ui>**Included in** <li>Order Jewelery </li></ui><ui>**Extends** <li>Get camera permission </li> <li> Handle AR errors	|
+| Triggering Event:     	|   <ui><li>Customer selects any product to try </li> <li>Customer orders any product, then they must try it before checkout|
+| Preconditions:        	| <ui><li>Customer must be logged in in the system </li> <li>Customer must have a camera in their device </li> <li>Customer should be in a well lit area
+| Postconditions:       	|   *None*	|
+| Basic Flow:   	|  <ul><li>Customer selects the try jewelry button</li><li>System scans the customer's face </li><li>System processes and applys the *3D* jewelry model on the customer's face </li><li>Customer can proceed or run the scan again</ul> 	|
+| Exception Conditions: 	|   <ul><li>System faces any problem to access the customer's camera</li> <li>Customer's face is not under adequate lighting for the algorithm to process and apply the *3D* model|
