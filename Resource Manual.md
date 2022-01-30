@@ -7,4 +7,20 @@
  - **Can't experience the touch and feel**
  *Not being able to try on rings and other jewelry. Not seeing the actual product to check the quality of the item you want to buy.*
  
- There could be countless other reasons and factors, but we aim at solving these two for our client **SPS Jewelers**. They are trusted by their clients, but what if we can elevate the trust using technology. What if we can integrate Augmented Reality with Jewellery Shopping? This idea was the motivator of this project. Combining something as fresh as AR into something as traditional as Jewellery shopping. It is undeniable that humans love hoarding jewellery. Many consider gold and diamond an investment and technology is meant to solve our problems. We aim at solving this problem using technology. 
+ There could be countless other reasons and factors, but we aim at solving these two for our client **Siddhi Jewellers**. They are trusted by their clients, but what if we can elevate the trust using technology. What if we can integrate Augmented Reality with Jewellery Shopping? This idea was the motivator of this project. Combining something as fresh as AR into something as traditional as Jewellery shopping. It is undeniable that humans love hoarding jewellery. Many consider gold and diamond an investment and technology is meant to solve our problems. We aim at solving this problem using technology. 
+
+## Probable Actors
+
+1.  **Customer** -
+    1.  View, Order, Try various jewelries available on the brochure
+2.  **Owner/Admin** -
+    1.  Add, Update, Delete jewelries and stocks
+    2.  View Customers and Orders
+    3.  View Transaction Histories
+
+## Usecase Diagram & Descriptions
+
+### Usecase Diagram
+![AR Jewelry System](https://user-images.githubusercontent.com/40191280/151697032-cd43ebb6-a6b3-4003-82f8-1a392a943762.png)
+
+### Usecase Descriptions
