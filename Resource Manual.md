@@ -21,7 +21,7 @@
 ## Usecase Diagram & Descriptions
 
 ### Usecase Diagram
-![AR Jewelry System](https://user-images.githubusercontent.com/40191280/151697032-cd43ebb6-a6b3-4003-82f8-1a392a943762.png)
+![AR Jewelry System](AR%20Jewelry%20System.png)
 
 ### Usecase Descriptions
 
