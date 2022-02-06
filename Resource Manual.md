@@ -32,7 +32,7 @@ Our objective is to provide an experience to the customers of **Siddhi Jewellers
 ## Usecase Diagram & Descriptions
 
 ### Usecase Diagram
-![AR Jewelry System](AR%20Jewelry%20System.png)
+![AR Jewelry System](AR%20Jewelry%20System%20(1).vpd.png)
 
 ### Usecase Descriptions
 
