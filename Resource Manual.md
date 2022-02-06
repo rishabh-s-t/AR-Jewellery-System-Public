@@ -36,7 +36,7 @@ Our objective is to provide an experience to the customers of **Siddhi Jewellers
 
 ### Usecase Descriptions
 
-### #1 (To be reviewed)
+### 1 (To be reviewed)
 
 | Use Case Name:        	|   Login	|
 |-----------------------	|---	|
@@ -49,15 +49,15 @@ Our objective is to provide an experience to the customers of **Siddhi Jewellers
 | Basic Flow:   	|  <ul><li>The system requests user credentials </li><li>User enters the credentials in the system</li><li>The system checks the user credentials</li></ul> 	|
 | Exception Conditions: 	|   <ul><li>The credentials entered are wrong</li> <li> The user aborts login before verification|
 
-### #2 (To be reviewed)
+### 2 (To be reviewed)
 
-| Use Case Name:        	|   Try Jewelry	|
+| Use Case Name:        	|   View Transaction History	|
 |-----------------------	|---	|
-| Primary Actor:            	|   Customer	|
-| Description:            	|   This use case helps the customer try  jewelries on their screen using the help of **Augmented Reality** 	|
-| Relationships:            	|   <ui>**Included in** <li>Order Jewelery </li></ui><ui>**Extends** <li>Get camera permission </li> <li> Handle AR errors	|
-| Triggering Event:     	|   <ui><li>Customer selects any product to try </li> <li>Customer orders any product, then they must try it before checkout|
-| Preconditions:        	| <ui><li>Customer must be logged in in the system </li> <li>Customer must have a camera in their device </li> <li>Customer should be in a well lit area
-| Postconditions:       	|   *None*	|
-| Basic Flow:   	|  <ul><li>Customer selects the try jewelry button</li><li>System scans the customer's face </li><li>System processes and applys the *3D* jewelry model on the customer's face </li><li>Customer can proceed or run the scan again</ul> 	|
-| Exception Conditions: 	|   <ul><li>System faces any problem to access the customer's camera</li> <li>Customer's face is not under adequate lighting for the algorithm to process and apply the *3D* model|
+| Primary Actor:            	|   Owner	|
+| Description:            	|   This use case allows the owner to see the transactions happened in the given timeframe. 	|
+| Relationships:            	|   -	|
+| Triggering Event:     	|   Owner selects the view transaction history button |
+| Preconditions:        	| Owner must be logged in in the system
+| Postconditions:       	| The transactional history gets displayed |
+| Basic Flow:   	|  <ul><li>Owner selects the view transaction history button</li><li>System asks for a timeframe </li><li>Owner enters the timeframe </li><li>System scans the database and returns the transactions in the given timeframe</ul> 	|
+| Exception Conditions: 	|   <ul><li>The system fails at returning the transactions</li> <li>There is no recorded transactions in the timeframe|
