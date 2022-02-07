@@ -1,4 +1,6 @@
 # Jewelstore (AR Jewelry E-Commerce Store)
+
+## Client - Siddhi Jewellers
 # Problem Statement
 ['Homemakers in rural India hold over 11% of the actual amount of gold in the world. Consequently, Indian women collectively wear over 21,000 tons of gold on their bodies. To put this figure into perspective, the Indians’ obsession with gold has pushed them to accumulate more gold than all the reserves of the IMF, USA, Germany, and Switzerland put together.'](https://blog.novemgold.com/interesting-fact-indian-housewives-hold-11-of-the-worlds-gold/) However, almost all of the jewelry shopping is done traditionally. This is a market longing for a disruption. ['Only 7.6% of the global jewelry shopping was done online and India only had an online penetration of 1.2%'](https://retailjewellerindia.com/how-big-is-the-online-jewellery-market-in-india/). What could be the reasons of such low market penetration in online jewelry shopping? 
 
