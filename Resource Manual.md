@@ -63,3 +63,6 @@ Our objective is to provide an experience to the customers of **Siddhi Jewellers
 | Postconditions:       	| The transactional history gets displayed |
 | Basic Flow:   	|  <ul><li>Owner selects the view transaction history button</li><li>System asks for a timeframe </li><li>Owner enters the timeframe </li><li>System scans the database and returns the transactions in the given timeframe</ul> 	|
 | Exception Conditions: 	|   <ul><li>The system fails at returning the transactions</li> <li>There is no recorded transactions in the timeframe|
+
+ ## Domain Level Class Diagram
+ ![Class Diagram](ClassDiagram1.png)
