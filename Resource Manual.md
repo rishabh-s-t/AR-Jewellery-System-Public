@@ -65,4 +65,4 @@ Our objective is to provide an experience to the customers of **Siddhi Jewellers
 | Exception Conditions: 	|   <ul><li>The system fails at returning the transactions</li> <li>There is no recorded transactions in the timeframe|
 
  ## Domain Level Class Diagram
- ![Class Diagram](ClassDiagram1.png)
+ ![Class Diagram](ClassDiagram1.jpg)
