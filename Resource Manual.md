@@ -38,7 +38,7 @@ Our objective is to provide an experience to the customers of **Siddhi Jewellers
 
 ### Usecase Descriptions
 
-### 1 (To be reviewed)
+### 1
 
 | Use Case Name:        	|   Try Jewelry 	|
 |-----------------------	|---	|
@@ -51,7 +51,7 @@ Our objective is to provide an experience to the customers of **Siddhi Jewellers
 | Basic Flow:   	| <ul><li>Customer selects the try jewelry button </li><li>System scans the customer's face</li><li>System processes and applys the  _3D_  jewelry model on the customer's face</li><li>Customer can proceed or run the scan again </li>	|
 | Exception Conditions: 	|   <ul><li>System faces any problem to access the customer's camera</li><li>Customer's face is not under adequate lighting for the algorithm to process and apply the  _3D_  model </li>|
 
-### 2 (To be reviewed)
+### 2 
 
 | Use Case Name:        	|   View Transaction History	|
 |-----------------------	|---	|
