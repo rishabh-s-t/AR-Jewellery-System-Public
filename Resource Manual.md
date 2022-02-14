@@ -66,3 +66,24 @@ Our objective is to provide an experience to the customers of **Siddhi Jewellers
 
  ## Domain Level Class Diagram
  ![Class Diagram](ClassDiagram1.jpg)
+## Packages Planned:
+- Web
+- SparkAR
+
+## Classes Planned:
+- Customer
+- Web User
+- Order
+- Product
+- Shopping Cart
+- viewBrochure
+- owner
+- Payment
+- Transaction
+- tryJewelry
+- 3DModelCameraInput
+
+We have planned two different packages, Web & SparkAR. Web package will contain
+classes required to handle the web excerience of the user and the SparkAR will 
+be used to add the 3D models to user's facial models and render it out.
+
