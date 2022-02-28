@@ -66,9 +66,6 @@ Our objective is to provide an experience to the customers of **Siddhi Jewellers
 
  ## Domain Level Class Diagram
  ![Class Diagram](Class_Updated.jpg)
-## Packages Planned:
-- Web
-- SparkAR
 
 ## Classes Planned:
 - Person: Info of everyone that uses or is a part of our system
