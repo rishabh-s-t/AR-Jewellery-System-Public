@@ -65,7 +65,7 @@ Our objective is to provide an experience to the customers of **Siddhi Jewellers
 | Exception Conditions: 	|   <ul><li>The system fails at returning the transactions</li> <li>There is no recorded transactions in the timeframe|
 
  ## Domain Level Class Diagram
- ![Class Diagram](ClassDiagram.jpg)
+ ![Class Diagram](Class_Updated.jpg)
 ## Packages Planned:
 - Web
 - SparkAR
