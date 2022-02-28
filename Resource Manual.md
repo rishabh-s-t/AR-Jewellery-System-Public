@@ -71,19 +71,17 @@ Our objective is to provide an experience to the customers of **Siddhi Jewellers
 - SparkAR
 
 ## Classes Planned:
-- Customer
-- Web User
+- Person: Info of everyone that uses or is a part of our system
+- Employee
+- Registered Customer
+- Salesperson
+- Admin
+- 3DTryon: For generating 3D Tryons
+- Product: Storing Info of all products
+- Brochure: Displaying all products
+- Bill
 - Order
-- Product
-- Shopping Cart
-- viewBrochure
-- owner
 - Payment
-- Transaction
-- tryJewelry
-- 3DModelCameraInput
-
-We have planned two different packages, Web & SparkAR. Web package will contain
-classes required to handle the web excerience of the user and the SparkAR will 
-be used to add the 3D models to user's facial models and render it out.
+- Transaction History: To store history of all transactions
+- Order History: To store order history of a customer
 
