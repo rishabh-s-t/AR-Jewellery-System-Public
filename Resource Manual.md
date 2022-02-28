@@ -82,3 +82,5 @@ Our objective is to provide an experience to the customers of **Siddhi Jewellers
 - Transaction History: To store history of all transactions
 - Order History: To store order history of a customer
 
+## Sequence Diagram
+ ![Sequence Diagram](TryJewelrySeq.jpg)
