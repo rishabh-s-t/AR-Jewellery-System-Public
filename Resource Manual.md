@@ -93,7 +93,7 @@ Our objective is to provide an experience to the customers of **Siddhi Jewellers
  ![Add To Cart](addProduct.jpg)
 
 ### Edit Product Sequence Diagram
- ![Edit Product](EditTeam.jpg)
+ ![Edit Product](EditItem.jpg)
 
 ## Package Diagram
  ![PackageDiagram](Package.jpg)
