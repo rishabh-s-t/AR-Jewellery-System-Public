@@ -83,4 +83,17 @@ Our objective is to provide an experience to the customers of **Siddhi Jewellers
 - Order History: To store order history of a customer
 
 ## Sequence Diagram
+### Add To Cart Sequence Diagram
+ ![Add To Cart](addToCart.jpg)
+
+### Try Jewellery Sequence Diagram
  ![Sequence Diagram](TryJewelrySeq.jpg)
+
+### Add Product Sequence Diagram
+ ![Add To Cart](addProduct.jpg)
+
+### Edit Product Sequence Diagram
+ ![Edit Product](EditTeam.jpg)
+
+## Package Diagram
+ ![PackageDiagram](Package.jpg)
